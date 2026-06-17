@@ -2,7 +2,7 @@
 name: cognitive-bias-advisor
 slug: cognitive-bias-advisor-pro
 displayName: 认知偏差决策顾问
-version: 1.5.2
+version: 1.5.3
 description: 认知偏差决策顾问。当用户说"决策/决定/选择/我要不要/认知偏差/帮我决策/十问"等关键词时触发。通过十问框架帮助用户识别思维盲区，输出决策质量评估报告。适用场景：职业选择、投资决定、人际关系决策、重大决策前的自检。
 ---
 
