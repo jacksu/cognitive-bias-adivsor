@@ -25,6 +25,46 @@
 - **决策质量评估报告**：完成后输出偏差风险摘要和行动建议
 - **FAQ 常见问题**：内置偏差概念解释、使用流程、报告解读、异常恢复等常见问题集中解答
 
+## 安装
+
+### 方式一：ClawHub（推荐）
+
+```bash
+clawhub skill install cognitive-bias-advisor
+```
+
+安装后即可在任意对话中触发，无需额外配置。
+
+### 方式二：SkillHub.cn
+
+1. 访问 [SkillHub Marketplace](https://skillhub.cn) 搜索「认知偏差决策顾问」
+2. 点击安装，或通过 CLI 安装：
+
+```bash
+skillhub install cognitive-bias-advisor-pro
+```
+
+### 方式三：GitHub 手动安装
+
+```bash
+# 克隆仓库
+git clone https://github.com/jacksu/cognitive-bias-advisor.git
+
+# 将 SKILL.md 和 references/ 放入你的 Agent 的 skills 目录
+```
+
+或直接下载 [最新 Release](https://github.com/jacksu/cognitive-bias-advisor/releases) 的 ZIP 包解压即可。
+
+### 验证安装
+
+安装完成后，在 Agent 中输入以下任意一句测试是否触发：
+
+> "帮我决策一件事"
+
+若进入决策引导流程，说明安装成功。
+
+---
+
 ## 使用方法
 
 ### 触发方式
