@@ -27,6 +27,31 @@
 - **决策质量评估报告**：完成后输出偏差风险摘要和行动建议
 - **FAQ 常见问题**：内置偏差概念、使用流程、报告解读、异常恢复等解答
 
+## 文件结构
+
+```
+SKILL.md                        # 主入口：决策十问框架 + 领域路由 + FAQ
+references/
+├── q1-confirmation-bias.md     # Q1 确认偏误 题库
+├── q2-cognitive-dissonance.md  # Q2 认知失调 题库
+├── q3-self-serving-bias.md     # Q3 自利性偏误 题库
+├── q4-survivorship-bias.md     # Q4 幸存者偏误 题库
+├── q5-focusing-illusion.md     # Q5 聚焦错觉 题库
+├── q6-endowment-effect.md      # Q6 禀赋效应 题库
+├── q7-fundamental-attribution-error.md  # Q7 基本归因错误 题库
+├── q8-bandwagon-effect.md      # Q8 从众效应 题库
+├── q9-long-termism.md          # Q9 长期主义 题库
+├── q10-incentive-caused-bias.md # Q10 激励偏差 题库
+├── domain-decision.md          # 领域 1: 决策快速参考
+├── domain-learning.md          # 领域 2: 学习偏差与策略
+├── domain-action.md            # 领域 3: 行动偏差与策略
+├── domain-communication.md     # 领域 4: 沟通偏差与话术
+├── domain-influence.md         # 领域 5: 影响偏差与策略
+└── domain-management.md        # 领域 6: 管理偏差与策略
+```
+
+> 六领域内容按需加载：触发对应关键词时，先加载 `domain-{领域}.md` 获取偏差表和话术，再输出结果。
+
 ## 安装
 
 ### 方式一：ClawHub（推荐）
