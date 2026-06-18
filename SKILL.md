@@ -2,7 +2,7 @@
 name: cognitive-bias-advisor
 slug: cognitive-bias-advisor-pro
 displayName: 认知偏差决策顾问
-version: 2.1.0
+version: 2.2.0
 description: 认知偏差决策顾问。通过十问框架识别思维盲区，在决策/学习/行动/沟通/影响/管理六大领域提供偏差应对策略和话术。触发词：决策、决定、选择、学习、拖延、说服、谈判、激励、影响别人、管理团队、领导、带人等。
 ---
 
