@@ -2,7 +2,7 @@
 name: cognitive-bias-advisor
 slug: cognitive-bias-advisor
 displayName: 认知偏差顾问
-version: 2.2.0
+version: 2.3.0
 description: 认知偏差顾问。覆盖决策、学习、行动、沟通、影响、管理六大人生领域，通过识别偏差并提供可执行策略，帮助用户更理性地思考、行动与协作。触发词：决策、学习、拖延、说服、谈判、影响别人、管理团队、带人等。
 ---
 
