@@ -2,7 +2,7 @@
 name: cognitive-bias-advisor
 slug: cognitive-bias-advisor-pro
 displayName: 认知偏差顾问
-version: 2.4.0
+version: 2.5.0
 description: 认知偏差顾问。覆盖决策、学习、行动、沟通、影响、管理六大人生领域，基于查理·芒格"25类人类误判心理学"+经典认知偏差理论，通过十问框架和领域快查提供可执行策略。触发词：决策、学习、拖延、说服、谈判、影响别人、管理团队、带人等。
 ---
 
@@ -278,6 +278,11 @@ description: 认知偏差顾问。覆盖决策、学习、行动、沟通、影�
 | Q8 | 从众效应 | `references/q8-bandwagon-effect.md` |
 | Q9 | 长期主义 | `references/q9-long-termism.md` |
 | Q10 | 激励偏差 | `references/q10-incentive-caused-bias.md` |
+
+> 额外偏差参考（领域快查集成）：
+> - 喜欢热爱倾向：`references/bias-liking-tendency.md`
+> - 避免怀疑倾向：`references/bias-doubt-avoidance.md`
+> - 避免不一致性倾向：`references/bias-inconsistency-avoidance.md`
 
 🔴 **CHECKPOINT：所选模式所有问题已回答完。确认后进入 Phase 3 生成报告。**
 
@@ -758,7 +763,7 @@ description: 认知偏差顾问。覆盖决策、学习、行动、沟通、影�
 | ⚠️ 第一个发言定基调 | ⚠️ 避免怀疑倾向 + 锚定效应 |
 | ✅ 先独立后交叉 | ✅ 避免怀疑倾向可控 |
 
-> domain-management.md 还包含内群体偏误、喜欢热爱倾向、避免怀疑倾向、激励偏差和从众效应，完整策略见参考文件。
+> domain-management.md 还包含内群体偏误、喜欢热爱倾向、避免怀疑倾向、避免不一致性倾向、激励偏差和从众效应，完整策略见参考文件。
 
 ### 领域快查输出模板
 
