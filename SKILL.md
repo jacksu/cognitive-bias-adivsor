@@ -256,6 +256,7 @@ description: 认知偏差顾问。覆盖决策、学习、行动、沟通、影�
 > - 好奇心倾向：`references/bias-curiosity-tendency.md`
 > - 康德式公平倾向：`references/bias-kantian-fairness-tendency.md`
 > - 奖励与惩罚超级反应倾向：`references/q10-incentive-caused-bias.md`
+> - 艳羡与妒忌倾向：`references/bias-envy-jealousy-tendency.md`
 
 ---
 
